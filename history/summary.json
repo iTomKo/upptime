@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 153,
-    "timeDay": 153,
-    "timeWeek": 153,
-    "timeMonth": 153,
-    "timeYear": 153,
+    "time": 149,
+    "timeDay": 149,
+    "timeWeek": 149,
+    "timeMonth": 149,
+    "timeYear": 149,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "otto-services",
     "status": "down",
-    "uptime": "22.40%",
-    "uptimeDay": "22.40%",
-    "uptimeWeek": "22.40%",
-    "uptimeMonth": "22.40%",
-    "uptimeYear": "22.40%",
+    "uptime": "4.71%",
+    "uptimeDay": "4.71%",
+    "uptimeWeek": "4.71%",
+    "uptimeMonth": "4.71%",
+    "uptimeYear": "4.71%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-04": 2
+      "2024-09-04": 10
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "otto-editor",
     "status": "down",
-    "uptime": "28.46%",
-    "uptimeDay": "28.46%",
-    "uptimeWeek": "28.46%",
-    "uptimeMonth": "28.46%",
-    "uptimeYear": "28.46%",
+    "uptime": "4.82%",
+    "uptimeDay": "4.82%",
+    "uptimeWeek": "4.82%",
+    "uptimeMonth": "4.82%",
+    "uptimeYear": "4.82%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-04": 1
+      "2024-09-04": 10
     }
   },
   {
@@ -63,18 +63,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "otto-administration",
     "status": "down",
-    "uptime": "42.55%",
-    "uptimeDay": "42.55%",
-    "uptimeWeek": "42.55%",
-    "uptimeMonth": "42.55%",
-    "uptimeYear": "42.55%",
+    "uptime": "5.25%",
+    "uptimeDay": "5.25%",
+    "uptimeWeek": "5.25%",
+    "uptimeMonth": "5.25%",
+    "uptimeYear": "5.25%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-04": 1
+      "2024-09-04": 9
     }
   },
   {
@@ -83,18 +83,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "otto-cdn",
     "status": "down",
-    "uptime": "77.29%",
-    "uptimeDay": "77.29%",
-    "uptimeWeek": "77.29%",
-    "uptimeMonth": "77.29%",
-    "uptimeYear": "77.29%",
+    "uptime": "5.43%",
+    "uptimeDay": "5.43%",
+    "uptimeWeek": "5.43%",
+    "uptimeMonth": "5.43%",
+    "uptimeYear": "5.43%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-04": 0
+      "2024-09-04": 9
     }
   }
 ]
