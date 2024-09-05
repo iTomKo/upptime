@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-05": 1229,
+      "2024-09-05": 1240,
       "2024-09-04": 341
     }
   },
@@ -43,19 +43,19 @@
     "url": "$OTTO_EDITOR",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "otto-editor",
-    "status": "down",
+    "status": "up",
     "uptime": "0.99%",
-    "uptimeDay": "1.04%",
+    "uptimeDay": "1.05%",
     "uptimeWeek": "0.99%",
     "uptimeMonth": "0.99%",
     "uptimeYear": "0.99%",
-    "time": 275,
-    "timeDay": 275,
-    "timeWeek": 275,
-    "timeMonth": 275,
-    "timeYear": 275,
+    "time": 272,
+    "timeDay": 272,
+    "timeWeek": 272,
+    "timeMonth": 272,
+    "timeYear": 272,
     "dailyMinutesDown": {
-      "2024-09-05": 1214,
+      "2024-09-05": 1224,
       "2024-09-04": 341
     }
   },
@@ -64,19 +64,19 @@
     "url": "$OTTO_ADMIN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "otto-administration",
-    "status": "down",
-    "uptime": "0.99%",
-    "uptimeDay": "1.04%",
-    "uptimeWeek": "0.99%",
-    "uptimeMonth": "0.99%",
-    "uptimeYear": "0.99%",
-    "time": 357,
-    "timeDay": 357,
-    "timeWeek": 357,
-    "timeMonth": 357,
-    "timeYear": 357,
+    "status": "up",
+    "uptime": "0.98%",
+    "uptimeDay": "1.05%",
+    "uptimeWeek": "0.98%",
+    "uptimeMonth": "0.98%",
+    "uptimeYear": "0.98%",
+    "time": 362,
+    "timeDay": 362,
+    "timeWeek": 362,
+    "timeMonth": 362,
+    "timeYear": 362,
     "dailyMinutesDown": {
-      "2024-09-05": 1214,
+      "2024-09-05": 1224,
       "2024-09-04": 340
     }
   },
@@ -97,7 +97,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-05": 1229,
+      "2024-09-05": 1240,
       "2024-09-04": 339
     }
   }
